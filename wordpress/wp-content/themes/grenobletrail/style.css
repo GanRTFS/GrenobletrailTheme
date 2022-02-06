@@ -6,3 +6,21 @@ Version: 1.0
 
 Grenoble Trail Wordpress Theme, (C) 2022 WordPress.org
 */
+
+header {
+	background-color: black;
+	height: 100px;
+	color: white;
+}
+
+footer {
+	background-color: darkblue;
+	height: 100px;
+	color: white;
+}
+
+.main-wrap {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
